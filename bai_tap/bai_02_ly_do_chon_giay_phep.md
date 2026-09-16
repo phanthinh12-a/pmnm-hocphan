@@ -1,0 +1,4 @@
+# Lý do chọn giấy phép MIT
+Tôi lựa chọn giấy phép MIT cho kho bài tập vì đây là một giấy phép mã nguồn mở đơn giản, dễ hiểu và phù hợp với mục đích học tập. Với giấy phép MIT, người khác có thể sử dụng, sao chép, chỉnh sửa và phân phối mã nguồn tương đối tự do. Điều này giúp các bài tập trong kho có thể được chia sẻ để tham khảo và học hỏi mà không phải tuân theo quá nhiều điều kiện phức tạp.
+Tôi không lựa chọn GPL vì GPL có các yêu cầu chặt chẽ hơn khi phân phối phần mềm hoặc các sản phẩm được phát triển dựa trên mã nguồn được cấp phép. Trong khi đó, kho này chủ yếu chứa các bài tập phục vụ quá trình học tập và thực hành, nên sự linh hoạt của MIT phù hợp hơn. MIT vẫn yêu cầu giữ lại thông báo bản quyền và nội dung giấy phép khi sử dụng mã nguồn, giúp bảo đảm quyền của tác giả.
+Vì vậy, tôi chọn MIT vì giấy phép này dễ áp dụng, thuận tiện cho việc chia sẻ mã nguồn và phù hợp với mục đích học tập của kho bài tập.
